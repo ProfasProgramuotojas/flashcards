@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0f0f14"/>
+  <!-- Card stack shadow -->
+  <rect x="18" y="22" width="32" height="22" rx="4" fill="#2a2a3a"/>
+  <!-- Card background -->
+  <rect x="14" y="18" width="32" height="22" rx="4" fill="#1e1e2a" stroke="#2a2a3a" stroke-width="1"/>
+  <!-- Card front (gold) -->
+  <rect x="14" y="15" width="32" height="22" rx="4" fill="#16161e" stroke="#c9a84c" stroke-width="1.5"/>
+  <!-- "F" letterform in gold -->
+  <text x="30" y="31" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#c9a84c" text-anchor="middle" dominant-baseline="middle">F</text>
+  <!-- Dot accent -->
+  <circle cx="44" cy="44" r="4" fill="#c9a84c"/>
+</svg>
